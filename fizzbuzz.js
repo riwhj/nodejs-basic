@@ -1,6 +1,6 @@
-class FizzBuzz{
-    static say (number){
-        reture 1;
-    }
+class FizzBuzz {
+  static say(number) {
+    return 1;
+  }
 }
-module.exports=FizzBuzz;
+module.exports = FizzBuzz;
